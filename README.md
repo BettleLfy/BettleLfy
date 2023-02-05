@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
 ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
