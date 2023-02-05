@@ -1,4 +1,4 @@
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=paintdrip&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BettleLfy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=BettleLfy)
 
