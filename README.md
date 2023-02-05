@@ -28,7 +28,7 @@
 
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BettleLfy&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" align="right" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BettleLfy&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="left" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BettleLfy&show_icons=true&locale=en&layout=compact&theme=react" alt="debabin" align="right" height="164px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BettleLfy&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="left" height="164px" />
 </a>
 
